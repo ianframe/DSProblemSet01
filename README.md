@@ -1,2 +1,3 @@
-# DSProblemSet01
-Starter Code for Problem Set 01 in Data Structures &amp; Algorithms
+# Problem Set 1 - Revisiting Standard Draw
+
+You can find [Problem Set 1 here](https://docs.google.com/document/d/1sCrlmkAXMCLbDbMBiU7f6JwgvHg4_s3TFsXvoB7fexk/edit?usp=sharing). 
